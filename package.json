@@ -5,7 +5,8 @@
   "dependencies": {
     "autoboot": "git://github.com/YChebotaev/node-autoboot",
     "config": "~1.10.0",
-    "bunyan": "~1.2.3"
+    "bunyan": "~1.2.3",
+    "all-in": "git://github.com/YChebotaev/all-in"
   },
   "devDependencies": {},
   "scripts": {
