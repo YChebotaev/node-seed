@@ -7,6 +7,7 @@
     "name": "default"
   },
   "db": {
-    "db": "test"
+    "db": "test",
+    "tables": ["foo","bar","baz","bak","bad", "barr"]
   }
 }

@@ -5,7 +5,12 @@
   "dependencies": {
     "autoboot": "git://github.com/YChebotaev/node-autoboot",
     "config": "~1.10.0",
-    "bunyan": "~1.2.3"
+    "bunyan": "~1.2.3",
+    "rethinkdb": "~1.15.0-0",
+    "bluebird": "~2.6.2",
+    "rethinkdb-fake-connection": "git://github.com/YChebotaev/rethinkdb-fake-connection",
+    "rethinkdb-ensure": "git://github.com/YChebotaev/rethinkdb-ensure",
+    "rethinkdb-database": "git://github.com/YChebotaev/rethinkdb-database"
   },
   "devDependencies": {},
   "scripts": {
