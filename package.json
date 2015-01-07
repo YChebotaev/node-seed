@@ -1,0 +1,14 @@
+{
+  "name": "seed",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "autoboot": "git://github.com/YChebotaev/node-autoboot",
+    "config": "~1.10.0",
+    "bunyan": "~1.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  }
+}
